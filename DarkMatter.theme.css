@@ -6,12 +6,12 @@
  * @source https://github.com/DiscordStyles/DarkMatter/
 */
 
-@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+@import url('https://github.com/quedastarling/DarkMatter/raw/main/src/base.css');
 
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url('https://i.imgur.com/7SbtKvw.png');
+    --background-image: url('https://i.imgur.com/7uaIA68.png');
     --home-image: url('https://i.imgur.com/233d55Y.gif');
     --background-solid: #161921;
     --background-solid-dark: #101218;
